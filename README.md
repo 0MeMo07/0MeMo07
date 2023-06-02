@@ -15,6 +15,6 @@
 
 <p>&nbsp;<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=0memo07&show_icons=true&locale=en" alt="0memo07" /></p>
 
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=0memo07&" alt="0memo07" /></p>
+<p><img align="left" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=0memo07&" alt="0memo07" /></p>
  
 ![snake gif](https://github.com/0MeMo07/0MeMo07/blob/output/github-contribution-grid-snake.gif)
