@@ -23,4 +23,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=0memo07&show_icons=true" />
 </picture>
   
-![snake gif](https://github.com/0MeMo07/0MeMo07/blob/output/github-contribution-grid-snake.gif)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586221943301341203?theme=light&bg=ffff&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/586221943301341203)
