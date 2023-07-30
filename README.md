@@ -22,5 +22,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=0memo07&show_icons=true" />
 </picture>
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586221943301341203?theme=light&bg=ffff&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/586221943301341203)
