@@ -22,3 +22,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=0memo07&show_icons=true" />
 </picture>
+.
